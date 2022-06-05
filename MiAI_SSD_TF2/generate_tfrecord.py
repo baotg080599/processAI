@@ -13,7 +13,7 @@ from __future__ import absolute_import
 import os
 import io
 import pandas as pd
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 
 from PIL import Image
 from object_detection.utils import dataset_util
